@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuCarv-bit
 - 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning Applied Mathematics and Data Science at FGV and how to create solutions with code at Bkper
+- 🌱 I’m currently learning Applied Mathematics and Data Science at FGV
 - 💞️ I’m looking to collaborate on open source projects and issues
 
 <!---
