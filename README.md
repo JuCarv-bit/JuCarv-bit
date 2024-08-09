@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuCarv-bit
-- 👀 I’m interested in Software Engineering and Data Science
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m an Applied Mathematics BSc and Data Science undergraduate student at FGV
 - 💞️ I’m looking to collaborate on open-source projects and issues
 
