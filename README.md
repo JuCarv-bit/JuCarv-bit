@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuCarv-bit
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m an M2 MASH student at Université Paris Dauphine-PSL and an Applied Mathematics BSc and Data Science & Artificial Intelligence BSc at FGV.
+- 🌱 I’m an M2 MASH student at Université Paris Dauphine-PSL and a graduate of BSc Applied Mathematics and BSc Data Science & Artificial Intelligence at Getulio Vargas Foundation.
 - 💞️ I’m looking to collaborate on open-source projects and issues
 
 <!---
